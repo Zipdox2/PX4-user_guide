@@ -317,6 +317,7 @@
       * [Servo Gripper](peripherals/gripper_servo.md)
     * [Parachute](peripherals/parachute.md)
     * [ADSB/FLARM (Traffic Avoidance)](peripherals/adsb_flarm.md)
+    * [Remote ID](peripherals/remote_id.md.md)
     * [Smart Batteries](smart_batteries/README.md)
       * [Rotoye Batmon Battery Smartification Kit](smart_batteries/rotoye_batmon.md)
     * [I2C Peripherals](sensor_bus/i2c_general.md)
